@@ -129,7 +129,7 @@ The author team of Matt Pharr, Greg Humphreys, and Pat Hanrahan garnered a 2014 
 - [Presentation Slides](https://github.com/utilForever/PBRStudy/blob/master/Physically%20Based%20Rendering%20-%20Chapter%2010%2C%20Part%202.pptx)
     - Image Texture
     - Solid and Procedural Texturing
-- Presentation Slides (WIP)
+- [Presentation Slides](https://github.com/utilForever/PBRStudy/blob/master/Physically%20Based%20Rendering%20-%20Chapter%2010%2C%20Part%203.pptx)
     - Noise
 
 ### Chapter 11: Volume scattering
