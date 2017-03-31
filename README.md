@@ -134,19 +134,78 @@ The author team of Matt Pharr, Greg Humphreys, and Pat Hanrahan garnered a 2014 
 
 ### Chapter 11: Volume scattering
 
+- Presentation Slides (WIP)
+    - Volume Scattering Processes
+    - Phease Functions
+    - Volume Interface and Homogeneous Media
+    - Varying-Density Volumes
+    - Volume Aggregates
+    - The BSSRDF
+
 ### Chapter 12: Light Sources
+
+- Presentation Slides (To-do)
+    - Light Interface
+    - Point Lights
+    - Distant Lights
+    - Area Lights
+    - Infinite Area Lights
 
 ### Chapter 13: Monte Carlo Integration I, Basic concepts
 
+- Presentation Slides (To-do)
+    - Background and Probability Review
+    - The Monte Carlo Estimator
+    - Basic Sampling of Random Variables
+    - Metropolis Sampling
+    - Transforming between Distributions
+    - 2D Sampling with Multidimensional Transformations
+
 ### Chapter 14: Monte Carlo Integration II, Improving Efficiency
+
+- Presentation Slides (To-do)
+    - Russian Roulette and Splitting
+    - Careful Sample Placement
+    - Bias
+    - Importance Sampling
+    - Sampling Reflection Functions
+    - Sampling Light Sources
+    - Volume Scattering
 
 ### Chapter 15: Light Transport I, Surface Reflection
 
+- Presentation Slides (To-do)
+    - Direct Lighting
+    - The Light Transport Equation
+    - Path Tracing
+    - Instant Global Illumination
+    - Irradiance Caching
+    - Particle Tracing and Photon Mapping
+    - Metropolis Light Transport
+
 ### Chapter 16: Light Transport II, Volume Rendering
+
+- Presentation Slides (To-do)
+    - The Equation of Transfer
+    - Volume Integrator Interface
+    - Emission-Only Integrator
+    - Single Scattering Integrator
+    - Subsurface Scattering
 
 ### Chapter 17: Light Transport III, Precomputed Light Transport
 
+- Presentation Slides (To-do)
+    - Basis Functions: Theory
+    - Spherical Harmonics
+    - Radiance Probes
+    - Precomputed Diffuse Transfer
+    - Precomputed Glossy Transfer
+
 ### Chapter 18: Retrospective and The Future
+
+- Presentation Slides (To-do)
+    - Design Retrospective
+    - Throughput Processors
 
 ## License
 
