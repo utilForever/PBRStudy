@@ -134,7 +134,7 @@ The author team of Matt Pharr, Greg Humphreys, and Pat Hanrahan garnered a 2014 
 
 ### Chapter 11: Volume scattering
 
-- Presentation Slides (WIP)
+- [Presentation Slides](https://github.com/utilForever/PBRStudy/blob/master/Physically%20Based%20Rendering%20-%20Chapter%2011.pptx)
     - Volume Scattering Processes
     - Phease Functions
     - Volume Interface and Homogeneous Media
@@ -144,7 +144,7 @@ The author team of Matt Pharr, Greg Humphreys, and Pat Hanrahan garnered a 2014 
 
 ### Chapter 12: Light Sources
 
-- Presentation Slides (To-do)
+- Presentation Slides (WIP)
     - Light Interface
     - Point Lights
     - Distant Lights
