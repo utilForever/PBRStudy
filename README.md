@@ -144,7 +144,7 @@ The author team of Matt Pharr, Greg Humphreys, and Pat Hanrahan garnered a 2014 
 
 ### Chapter 12: Light Sources
 
-- Presentation Slides (WIP)
+- [Presentation Slides](https://github.com/utilForever/PBRStudy/blob/master/Physically%20Based%20Rendering%20-%20Chapter%2012.pptx)
     - Light Interface
     - Point Lights
     - Distant Lights
@@ -153,7 +153,7 @@ The author team of Matt Pharr, Greg Humphreys, and Pat Hanrahan garnered a 2014 
 
 ### Chapter 13: Monte Carlo Integration I, Basic concepts
 
-- Presentation Slides (To-do)
+- Presentation Slides (WIP)
     - Background and Probability Review
     - The Monte Carlo Estimator
     - Basic Sampling of Random Variables
