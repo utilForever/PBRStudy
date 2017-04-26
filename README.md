@@ -153,10 +153,11 @@ The author team of Matt Pharr, Greg Humphreys, and Pat Hanrahan garnered a 2014 
 
 ### Chapter 13: Monte Carlo Integration I, Basic concepts
 
-- Presentation Slides (WIP)
+- [Presentation Slides](https://github.com/utilForever/PBRStudy/blob/master/Physically%20Based%20Rendering%20-%20Chapter%2013%2C%20Part%201.pptx)
     - Background and Probability Review
     - The Monte Carlo Estimator
     - Basic Sampling of Random Variables
+- Presentation Slides (WIP)    
     - Metropolis Sampling
     - Transforming between Distributions
     - 2D Sampling with Multidimensional Transformations
