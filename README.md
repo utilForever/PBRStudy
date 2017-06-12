@@ -164,11 +164,12 @@ The author team of Matt Pharr, Greg Humphreys, and Pat Hanrahan garnered a 2014 
 
 ### Chapter 14: Monte Carlo Integration II, Improving Efficiency
 
-- Presentation Slides (To-do)
+- [Presentation Slides](https://github.com/utilForever/PBRStudy/blob/master/Physically%20Based%20Rendering%20-%20Chapter%2014%2C%20Part%201.pptx)
     - Russian Roulette and Splitting
     - Careful Sample Placement
     - Bias
     - Importance Sampling
+- Presentation Slides (To-do)
     - Sampling Reflection Functions
     - Sampling Light Sources
     - Volume Scattering
