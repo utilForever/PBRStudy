@@ -173,14 +173,16 @@ The author team of Matt Pharr, Greg Humphreys, and Pat Hanrahan garnered a 2014 
     - Sampling Reflection Functions
 - [Presentation Slides](https://github.com/utilForever/PBRStudy/blob/master/Physically%20Based%20Rendering%20-%20Chapter%2014%2C%20Part%203.pptx)
     - Sampling Light Sources
-- Presentation Slides (To-do)
+- [Presentation Slides](https://github.com/utilForever/PBRStudy/blob/master/Physically%20Based%20Rendering%20-%20Chapter%2014%2C%20Part%204.pptx)
     - Volume Scattering
 
 ### Chapter 15: Light Transport I, Surface Reflection
 
-- Presentation Slides (To-do)
+- [Presentation Slides](https://github.com/utilForever/PBRStudy/blob/master/Physically%20Based%20Rendering%20-%20Chapter%2015%2C%20Part%201.pptx)
     - Direct Lighting
+- [Presentation Slides](https://github.com/utilForever/PBRStudy/blob/master/Physically%20Based%20Rendering%20-%20Chapter%2015%2C%20Part%202.pptx)
     - The Light Transport Equation
+- Presentation Slides (To-do)
     - Path Tracing
     - Instant Global Illumination
     - Irradiance Caching
