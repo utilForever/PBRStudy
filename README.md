@@ -182,8 +182,9 @@ The author team of Matt Pharr, Greg Humphreys, and Pat Hanrahan garnered a 2014 
     - Direct Lighting
 - [Presentation Slides](https://github.com/utilForever/PBRStudy/blob/master/Physically%20Based%20Rendering%20-%20Chapter%2015%2C%20Part%202.pptx)
     - The Light Transport Equation
-- Presentation Slides (To-do)
+- [Presentation Slides](https://github.com/utilForever/PBRStudy/blob/master/Physically%20Based%20Rendering%20-%20Chapter%2015%2C%20Part%203.pptx)
     - Path Tracing
+- Presentation Slides (To-do)    
     - Instant Global Illumination
     - Irradiance Caching
     - Particle Tracing and Photon Mapping
