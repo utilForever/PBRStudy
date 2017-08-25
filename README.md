@@ -184,10 +184,12 @@ The author team of Matt Pharr, Greg Humphreys, and Pat Hanrahan garnered a 2014 
     - The Light Transport Equation
 - [Presentation Slides](https://github.com/utilForever/PBRStudy/blob/master/Physically%20Based%20Rendering%20-%20Chapter%2015%2C%20Part%203.pptx)
     - Path Tracing
-- Presentation Slides (To-do)    
+- [Presentation Slides](https://github.com/utilForever/PBRStudy/blob/master/Physically%20Based%20Rendering%20-%20Chapter%2015%2C%20Part%204.pptx)
     - Instant Global Illumination
     - Irradiance Caching
+- [Presentation Slides](https://github.com/utilForever/PBRStudy/blob/master/Physically%20Based%20Rendering%20-%20Chapter%2015%2C%20Part%205.pptx)    
     - Particle Tracing and Photon Mapping
+- Presentation Slides (To-do)    
     - Metropolis Light Transport
 
 ### Chapter 16: Light Transport II, Volume Rendering
