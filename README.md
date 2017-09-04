@@ -188,6 +188,7 @@ The author team of Matt Pharr, Greg Humphreys, and Pat Hanrahan garnered a 2014 
     - Instant Global Illumination
     - Irradiance Caching
 - [Presentation Slides](https://github.com/utilForever/PBRStudy/blob/master/Physically%20Based%20Rendering%20-%20Chapter%2015%2C%20Part%205.pptx)    
+- [Presentation Slides](https://github.com/utilForever/PBRStudy/blob/master/Physically%20Based%20Rendering%20-%20Chapter%2015%2C%20Part%206.pptx)
     - Particle Tracing and Photon Mapping
 - Presentation Slides (To-do)    
     - Metropolis Light Transport
