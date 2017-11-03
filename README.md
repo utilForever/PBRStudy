@@ -190,7 +190,7 @@ The author team of Matt Pharr, Greg Humphreys, and Pat Hanrahan garnered a 2014 
 - [Presentation Slides](https://github.com/utilForever/PBRStudy/blob/master/Physically%20Based%20Rendering%20-%20Chapter%2015%2C%20Part%205.pptx)    
 - [Presentation Slides](https://github.com/utilForever/PBRStudy/blob/master/Physically%20Based%20Rendering%20-%20Chapter%2015%2C%20Part%206.pptx)
     - Particle Tracing and Photon Mapping
-- Presentation Slides (To-do)    
+- [Presentation Slides](https://github.com/utilForever/PBRStudy/blob/master/Physically%20Based%20Rendering%20-%20Chapter%2015%2C%20Part%207.pptx)
     - Metropolis Light Transport
 
 ### Chapter 16: Light Transport II, Volume Rendering
