@@ -201,6 +201,7 @@ The author team of Matt Pharr, Greg Humphreys, and Pat Hanrahan garnered a 2014 
     - Volume Integrator Interface
     - Emission-Only Integrator
     - Single Scattering Integrator
+- [Presentation Slides](https://github.com/utilForever/PBRStudy/blob/master/Physically%20Based%20Rendering%20-%20Chapter%2016%2C%20Part%202.pptx)
     - Subsurface Scattering
 
 ### Chapter 17: Light Transport III, Precomputed Light Transport
