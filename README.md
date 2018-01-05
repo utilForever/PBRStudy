@@ -157,7 +157,7 @@ The author team of Matt Pharr, Greg Humphreys, and Pat Hanrahan garnered a 2014 
     - Background and Probability Review
     - The Monte Carlo Estimator
     - Basic Sampling of Random Variables
-- Presentation Slides (WIP)    
+- [Presentation Slides](https://github.com/utilForever/PBRStudy/blob/master/Physically%20Based%20Rendering%20-%20Chapter%2013%2C%20Part%202.pptx)
     - Metropolis Sampling
     - Transforming between Distributions
     - 2D Sampling with Multidimensional Transformations
@@ -196,17 +196,18 @@ The author team of Matt Pharr, Greg Humphreys, and Pat Hanrahan garnered a 2014 
 
 ### Chapter 16: Light Transport II, Volume Rendering
 
-- Presentation Slides (To-do)
+- [Presentation Slides](https://github.com/utilForever/PBRStudy/blob/master/Physically%20Based%20Rendering%20-%20Chapter%2016%2C%20Part%201.pptx)
     - The Equation of Transfer
     - Volume Integrator Interface
     - Emission-Only Integrator
     - Single Scattering Integrator
 - [Presentation Slides](https://github.com/utilForever/PBRStudy/blob/master/Physically%20Based%20Rendering%20-%20Chapter%2016%2C%20Part%202.pptx)
+- [Presentation Slides](https://github.com/utilForever/PBRStudy/blob/master/Physically%20Based%20Rendering%20-%20Chapter%2016%2C%20Part%203.pptx)
     - Subsurface Scattering
 
 ### Chapter 17: Light Transport III, Precomputed Light Transport
 
-- Presentation Slides (To-do)
+- [Presentation Slides](https://github.com/utilForever/PBRStudy/blob/master/Physically%20Based%20Rendering%20-%20Chapter%2017.pptx)
     - Basis Functions: Theory
     - Spherical Harmonics
     - Radiance Probes
@@ -215,7 +216,7 @@ The author team of Matt Pharr, Greg Humphreys, and Pat Hanrahan garnered a 2014 
 
 ### Chapter 18: Retrospective and The Future
 
-- Presentation Slides (To-do)
+- Presentation Slides is omitted.
     - Design Retrospective
     - Throughput Processors
 
